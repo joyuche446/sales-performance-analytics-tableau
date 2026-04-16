@@ -16,7 +16,7 @@ A retail lacks clear visibility into year-over-year performance, product-level p
 ## Key Calculations & Metrics:
 ## Dashboard:
 ## Skills:
-Data cleaning and transformation (data type standardization, currency formatting, string-to-numeric conversion)
+* Data cleaning and transformation (data type standardization, currency formatting, string-to-numeric conversion)
 * Data modeling using relationships (fact and dimension tables)
 * Parameter-driven analysis for dynamic year selection (CY vs PY)
 * Calculated fields using conditional logic (IF/THEN) and aggregations
