@@ -16,6 +16,16 @@ A retail lacks clear visibility into year-over-year performance, product-level p
 ## Key Calculations & Metrics:
 ## Dashboard:
 ## Skills:
+Data cleaning and transformation (data type standardization, currency formatting, string-to-numeric conversion)
+* Data modeling using relationships (fact and dimension tables)
+* Parameter-driven analysis for dynamic year selection (CY vs PY)
+* Calculated fields using conditional logic (IF/THEN) and aggregations
+* Table calculations (WINDOW_AVG, WINDOW_MAX, WINDOW_MIN)
+* KPI calculations and performance metrics development (Sales, Profit, Quantity, % Change)
+* Year-over-Year (YoY) analysis and trend analysis
+* Interactive dashboard development (filters, parameters, drill-down)
+* Data visualization (bar charts, line charts, KPI cards, sparklines)
+* Business insights and performance analysis using Tableau
 ## Results & Recommendations:
 ## Next Steps:
 
