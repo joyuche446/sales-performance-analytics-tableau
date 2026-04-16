@@ -7,6 +7,7 @@ The dashboard provides stakeholders with a clear, interactive view of business p
 A retail lacks clear visibility into year-over-year performance, product-level profitability, and regional sales trends. The objective of this analysis is to evaluate sales performance, identify underperforming products and regions, and generate data-driven insights to improve profitability and support strategic decision-making.
 ## Methodology:
 *Dashboard Preparation:* Monetary fields(sales, profits and discount) were standardized using calculated fields and formulas to ensure accurate data types.
+
 *Data Modelling:* Relationships were created between tables to allow for cross-dimensional analysis
 *KPI Modelling:* Calculated fields were created for evaluating KPIs.
 *Dashboard Design:* : Built an interactive Tableau dashboard with KPI cards, sparklines, bar charts, and line charts for executive reporting. 
