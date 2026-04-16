@@ -5,5 +5,7 @@ Advanced calculated fields and table calculations were used to generate KPIs, tr
 The dashboard provides stakeholders with a clear, interactive view of business performance to support data-driven decision-making in sales strategy and operational planning.
 ## Business Problem:
 A retail lacks clear visibility into year-over-year performance, product-level profitability, and regional sales trends. The objective of this analysis is to evaluate sales performance, identify underperforming products and regions, and generate data-driven insights to improve profitability and support strategic decision-making.
+## Methodology:
+*Dashboard Preparation:*
 
 
