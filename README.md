@@ -55,26 +55,26 @@ To build on the insights generated from the Sales Performance Dashboard and furt
 While overall profit increased, its slower growth compared to sales suggests margin pressure. 
 The next step is to:
 
-1. Analyze profit at a more granular level (product, region, customer segment)
-2. Investigate the impact of discounts on profitability
-3. Identify high-revenue but low-profit products
+* Analyze profit at a more granular level (product, region, customer segment)
+* Investigate the impact of discounts on profitability
+* Identify high-revenue but low-profit products
 
-2. Incorporate Cost Data for Margin Analysis
+**2. Incorporate Cost Data for Margin Analysis:**
 The current dashboard focuses on sales and profit, but adding detailed cost components would provide better visibility into:
 
-Cost of goods sold (COGS)
-Operational and logistics costs
-True profit margins by product and region
+* Cost of goods sold (COGS)
+* Operational and logistics costs
+* True profit margins by product and region
 
 This will enable more precise margin optimization strategies.
 
-3. Enhance Customer-Level Insights
+**3. Enhance Customer-Level Insights:**
 Introduce customer segmentation to better understand purchasing behavior:
 
-Identify high-value and repeat customers
-Analyze buying patterns across regions and product categories
-Develop targeted retention and upselling strategies
+* Identify high-value and repeat customers
+* Analyze buying patterns across regions and product categories
+* Develop targeted retention and upselling strategies
 
-4. Add Forecasting Capabilities
+
 
 
