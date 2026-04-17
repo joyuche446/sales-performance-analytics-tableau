@@ -31,6 +31,20 @@ Overall, the analysis revealed strong year-over-year (YoY) growth across all key
 The monthly trend analysis (via sparklines and line charts) showed consistent upward movement in sales and quantity throughout the current year, with some fluctuations that may indicate seasonal demand patterns. This highlights opportunities for better demand forecasting and inventory planning.
 At the product level, the dashboard identified clear disparities in performance across subcategories. Some product segments consistently performed above average, contributing significantly to overall revenue, while others underperformed, dragging down profitability.
 A key observation from the KPI comparison is the gap between sales growth and profit growth, which points to potential margin compression. This may be influenced by higher discounts, increased operational costs, or a shift toward lower-margin products.
+**Recommendations**
+Based on the insights generated from the dashboard, the following actions are recommended:
+1. Improve Profit Margins:
+   The disparity between sales growth and profit growth should be addressed. This can be achieved by:
+*	Reviewing discount strategies to ensure they are not eroding margins 
+*	Identifying high-cost products or operations and optimizing them 
+*	Promoting higher-margin products more aggressively 
+2. Optimize Product Portfolio
+Focus on product subcategories that consistently perform above average and contribute the most to profit. At the same time:
+*	Reassess underperforming products 
+*	Consider discontinuing or repositioning low-performing items 
+*	Bundle or promote weaker products strategically to improve sales 
+
+
 ## Next Steps:
 
 
