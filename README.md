@@ -46,5 +46,33 @@ Focus on product subcategories that consistently perform above average and contr
 
 
 ## Next Steps:
+Next Steps
+
+To build on the insights generated from the Sales Performance Dashboard and further enhance decision-making, the following next steps are recommended:
+
+1. Conduct Deeper Profitability Analysis
+While overall profit increased, its slower growth compared to sales suggests margin pressure. The next step is to:
+
+Analyze profit at a more granular level (product, region, customer segment)
+Investigate the impact of discounts on profitability
+Identify high-revenue but low-profit products
+
+2. Incorporate Cost Data for Margin Analysis
+The current dashboard focuses on sales and profit, but adding detailed cost components would provide better visibility into:
+
+Cost of goods sold (COGS)
+Operational and logistics costs
+True profit margins by product and region
+
+This will enable more precise margin optimization strategies.
+
+3. Enhance Customer-Level Insights
+Introduce customer segmentation to better understand purchasing behavior:
+
+Identify high-value and repeat customers
+Analyze buying patterns across regions and product categories
+Develop targeted retention and upselling strategies
+
+4. Add Forecasting Capabilities
 
 
