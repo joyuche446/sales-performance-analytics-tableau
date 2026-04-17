@@ -27,6 +27,10 @@ A retail lacks clear visibility into year-over-year performance, product-level p
 * Data visualization (bar charts, line charts, KPI cards, sparklines)
 * Business insights and performance analysis using Tableau
 ## Results & Recommendations:
+Overall, the analysis revealed strong year-over-year (YoY) growth across all key metrics. Sales increased by 20.4%, while quantity sold rose by 26.8%, indicating a significant expansion in customer demand and transaction volume. However, profit grew at a lower rate of 14.24%, suggesting that increased sales did not translate proportionally into profitability.
+The monthly trend analysis (via sparklines and line charts) showed consistent upward movement in sales and quantity throughout the current year, with some fluctuations that may indicate seasonal demand patterns. This highlights opportunities for better demand forecasting and inventory planning.
+At the product level, the dashboard identified clear disparities in performance across subcategories. Some product segments consistently performed above average, contributing significantly to overall revenue, while others underperformed, dragging down profitability.
+A key observation from the KPI comparison is the gap between sales growth and profit growth, which points to potential margin compression. This may be influenced by higher discounts, increased operational costs, or a shift toward lower-margin products.
 ## Next Steps:
 
 
