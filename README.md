@@ -13,6 +13,7 @@ The business lacks clear visibility into year-over-year sales performance, produ
 **Dashboard Design:** Built an interactive Tableau dashboard with KPI cards, sparklines, bar, and line charts for executive reporting.
 ## Key Calculations & Metrics:
 ## Dashboard:
+![Sales Dashboard](images/sales_dashboard.png)
 ## Skills:
 * Data cleaning and transformation (data type standardization, currency formatting, string-to-numeric conversion)
 * Data modeling using relationships (fact and dimension tables)
