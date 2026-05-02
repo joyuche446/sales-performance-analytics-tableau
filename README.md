@@ -10,7 +10,7 @@ The business lacks clear visibility into year-over-year sales performance, produ
 
 **KPI Modelling:** Developed calculated fields to evaluate key KPIs.
 
-**Dashboard Design:** : Built an interactive Tableau dashboard with KPI cards, sparklines, bar charts, and line charts for executive reporting. 
+**Dashboard Design:** Built an interactive Tableau dashboard with KPI cards, sparklines, bar, and line charts for executive reporting.
 ## Key Calculations & Metrics:
 ## Dashboard:
 ## Skills:
