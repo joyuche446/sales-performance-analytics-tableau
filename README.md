@@ -23,7 +23,7 @@ Interactive Tableau dashboard visualizing year-over-year sales performance acros
 - Interactive dashboarding (filters, drill-down)
 ## Results & Recommendations:
 ### Results:
-- Sales ↑ 20.4%, Quantity ↑ 26.8%, Profit ↑ 14.24% (VS PY)
+- Sales **↑ 20.4%**, Quantity **↑ 26.8%**, Profit **↑ 14.24%** (VS PY)
 - Sales and volume grew faster than profit
 - Performance varies across product subcategories
 ### Recommendations:
@@ -33,8 +33,6 @@ Interactive Tableau dashboard visualizing year-over-year sales performance acros
 - Use trends to improve demand forecasting and inventory planning
 
 ### Next Steps:
-
-- Analyze profitability at product and regional levels
 - Explore customer-level analysis for targeted strategies
 
 
