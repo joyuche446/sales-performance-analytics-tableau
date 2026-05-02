@@ -16,16 +16,11 @@ The business lacks clear visibility into year-over-year sales performance, produ
 ![Sales Dashboard](images/sales_dashboard.png)
 Interactive Tableau dashboard visualizing year-over-year sales performance across regions, categories, and key business metrics.
 ## Skills:
-* Data cleaning and transformation (data type standardization, currency formatting, string-to-numeric conversion)
-* Data modeling using relationships (fact and dimension tables)
-* Parameter-driven analysis for dynamic year selection (CY vs PY)
-* Calculated fields using conditional logic (IF/THEN) and aggregations
-* Table calculations (WINDOW_AVG, WINDOW_MAX, WINDOW_MIN)
-* KPI calculations and performance metrics development (Sales, Profit, Quantity, % Change)
-* Year-over-Year (YoY) analysis and trend analysis
-* Interactive dashboard development (filters, parameters, drill-down)
-* Data visualization (bar charts, line charts, KPI cards, sparklines)
-* Business insights and performance analysis using Tableau
+- Data cleaning & transformation
+- Data modeling (fact & dimension relationships)
+- Parameter-driven analysis (CY vs PY)
+- Calculated fields & table calculations (IF/THEN, WINDOW functions)
+- Interactive dashboarding (filters, drill-down)
 ## Results & Recommendations:
 Overall, the analysis revealed strong year-over-year (YoY) growth across all key metrics. Sales increased by 20.4%, while quantity sold rose by 26.8%, indicating a significant expansion in customer demand and transaction volume. However, profit grew at a lower rate of 14.24%, suggesting that increased sales did not translate proportionally into profitability.
 The monthly trend analysis (via sparklines and line charts) showed consistent upward movement in sales and quantity throughout the current year, with some fluctuations that may indicate seasonal demand patterns. This highlights opportunities for better demand forecasting and inventory planning.
