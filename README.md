@@ -14,6 +14,7 @@ The business lacks clear visibility into year-over-year sales performance, produ
 ## Key Calculations & Metrics:
 ## Dashboard:
 ![Sales Dashboard](images/sales_dashboard.png)
+Interactive Tableau dashboard visualizing year-over-year sales performance across regions, categories, and key business metrics.
 ## Skills:
 * Data cleaning and transformation (data type standardization, currency formatting, string-to-numeric conversion)
 * Data modeling using relationships (fact and dimension tables)
