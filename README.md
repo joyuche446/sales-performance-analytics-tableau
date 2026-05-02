@@ -1,4 +1,4 @@
-# Interactive Sales Performance Dashboard | Tableau | KPI Analysis | Trend & Profitability Insights 
+# Sales Performance Dashboard in Tableau | YoY Trends & KPI Analysis
 ## Project Summary:
 Interactive Tableau dashboard analyzing sales, profit, and quantity across time, product categories, and regions. Enables year-over-year (CY vs PY) comparison using parameter-driven KPIs and dynamic calculations. Results show strong sales and quantity growth, with slower profit growth indicating potential margin pressure.
 ## Business Problem:
