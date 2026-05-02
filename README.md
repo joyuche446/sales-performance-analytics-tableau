@@ -11,7 +11,10 @@ The business lacks clear visibility into year-over-year sales performance, produ
 **KPI Modelling:** Developed calculated fields to evaluate key KPIs.
 
 **Dashboard Design:** Built an interactive Tableau dashboard with KPI cards, sparklines, bar, and line charts for executive reporting.
-## Key Calculations & Metrics:
+## Key Calculations:
+- YoY Growth = (CY − PY) / PY  
+- CY = IF YEAR([Order Date]) = [Selected Year] THEN [Measure] END  
+- PY = IF YEAR([Order Date]) = [Selected Year] - 1 THEN [Measure] END  
 ## Dashboard:
 ![Sales Dashboard](images/sales_dashboard.png)
 Interactive Tableau dashboard visualizing year-over-year sales performance across regions, categories, and key business metrics.
