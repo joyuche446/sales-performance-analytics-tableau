@@ -35,7 +35,6 @@ Interactive Tableau dashboard visualizing year-over-year sales performance acros
 ### Next Steps:
 
 - Analyze profitability at product and regional levels
-- Incorporate cost data for deeper margin insights
 - Explore customer-level analysis for targeted strategies
 
 
