@@ -1,10 +1,8 @@
 # Interactive Sales Performance Dashboard | Tableau | KPI Analysis | Trend & Profitability Insights 
-## Executive Summary:
-This project presents an interactive Sales Performance Dashboard built in Tableau to analyze business performance across sales, profit, and quantity metrics. The dashboard enables multi-dimensional analysis across time, product categories, and geographic regions, with a focus on comparing current year (CY) vs previous year (PY) performance.
-Advanced calculated fields and table calculations were used to generate KPIs, trend analysis, and performance indicators. The analysis reveals overall growth in sales, profit, and quantity, with sales showing the strongest increase, while profit growth indicates potential margin pressure.
-The dashboard provides stakeholders with a clear, interactive view of business performance to support data-driven decision-making in sales strategy and operational planning.
+## Project Summary:
+Interactive Tableau dashboard analyzing sales, profit, and quantity across time, product categories, and regions. Enables year-over-year (CY vs PY) comparison using parameter-driven KPIs and dynamic calculations. Results show strong sales and quantity growth, with slower profit growth indicating potential margin pressure.
 ## Business Problem:
-A retail lacks clear visibility into year-over-year performance, product-level profitability, and regional sales trends. The objective of this analysis is to evaluate sales performance, identify underperforming products and regions, and generate data-driven insights to improve profitability and support strategic decision-making.
+The business lacks clear visibility into year-over-year sales performance, product category trends, and regional performance. This project aims to track key metrics, identify underperforming areas, and support data-driven decision-making.
 ## Methodology:
 **Dashboard Preparation:** Monetary fields(sales, profits and discount) were standardized using calculated fields and formulas to ensure accurate data types.
 
