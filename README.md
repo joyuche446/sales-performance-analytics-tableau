@@ -4,11 +4,11 @@ Interactive Tableau dashboard analyzing sales, profit, and quantity across time,
 ## Business Problem:
 The business lacks clear visibility into year-over-year sales performance, product category trends, and regional performance. This project aims to track key metrics, identify underperforming areas, and support data-driven decision-making.
 ## Methodology:
-**Dashboard Preparation:** Monetary fields(sales, profits and discount) were standardized using calculated fields and formulas to ensure accurate data types.
+**Data Preparation:**  Standardized monetary fields (sales, profit, discount) using calculated fields to ensure correct data types.
 
-**Data Modelling:** Relationships were created between tables to allow for cross-dimensional analysis
+**Data Modelling:** Created relationships between tables for cross-dimensional analysis.
 
-**KPI Modelling:** Calculated fields were created for evaluating KPIs.
+**KPI Modelling:** Developed calculated fields to evaluate key KPIs.
 
 **Dashboard Design:** : Built an interactive Tableau dashboard with KPI cards, sparklines, bar charts, and line charts for executive reporting. 
 ## Key Calculations & Metrics:
